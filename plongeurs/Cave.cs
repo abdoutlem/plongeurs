@@ -9,7 +9,7 @@ namespace plongeurs
         public int profondeur;
         public int largeur;
         public int niveaux;
-        public int nbreTresors = 15;
+        public int nbreTresors = 20;
         
 
         public Cave(int Profondeur, int Largeur, int Niveaux)
